@@ -14,4 +14,94 @@ Customers:
 
 Finances:
 1. Cost Structure
-2. Revenue Streams 
+2. Revenue Streams
+
+Lean startup is a methodology for developing businesses and products that aims to shorten product development cycles and rapidly discover if a proposed business model is viable; this is achieved by adopting a combination of business hypothesis-driven experimentation, iterative product releases, and validated learning.
+
+Key Partnerships:
+1. Whom do you rely on? Who relies on you?
+I rely on my team that is comprised of previous associates with professional background in the business departments listed below:
+	a. Social Media Planning, Posting and tickets
+	b. Marketing, Advertising, Branding Campaigns, and Web Design
+	c. Business Operations 
+	d. Sales 
+They in the same respect rely on me for strategic planning, organization, and execution of the business plans.
+
+Key Activities:
+1.  What do you actually need to do?
+On a daily basis we must adhere to the activity template put together to manage operational systems linked to the business goals. We need to maintain a steady market strategy to advertise and promote the value propositions of the company to our target audiences. The internal business operations must be able to maintain the inflow of customers, manage the the business processes for sales, service delivery, hiring, and collections. 
+
+The business must also focus on documenting standard operating procedures while maintaining and improving overtime the business infrastructure. 
+
+The plan of action to achieve these key activities is for the sales manager to follow the sales process, manage the activities inside of Hubspot, adhere to the SOP that analyzes, controls, and improves sales operations The sales manager is also responsible for creating estimates and invoicing customers. 
+
+The business operations manager must track performance of the customer, offer, and financial business components. Reporting weekly progress on key metrics, project statuses, and internal business development projects. The operations manager must be aware of all business processes, maintain a quality control practice according to the SOP. The operations manager must oversee all activities for sales, marketing, social media management, and advertising. All aforementioned activities will be organized into project charters and maintained by the 3rd Party resources and reported to the business operations manager. 
+
+Marketing, advertising, and social media management activities will follow an accordance to the project charter which will include our Customer Acquisition and Lead Generation Project. We will utilize a content development process, content framework, 10x10 content matrix to produce relevant business communications to the market place continuous to define, measure, analyze, improve, and control the business brand.   
+
+Key Resources 
+1. What assets do you have available to deploy?
+	a. Dedicated team members who make time to assist in the standardization and growth of the company.
+	b. Supportive customers, who continue to invest in our services and products
+	c. Growth Strategies with powerful strategic partnerships 
+
+Value Propositions
+1.What are you offering? Do people care?
+	a. Website Services
+		i. Web Design & Development
+		ii. Management & Maintenance
+		iii. Improvement Projects
+		iv. SEO & Listing Services 
+		v. ReDesigns 
+	b. Domain Registrar, Hosting, Email, and Security Products
+		i. Domain Registration and Transfers
+		ii. Hosting
+		iii. Security
+		iv. Marketing
+		v. Email
+	c. Consulting Services
+		i. Infrastructure Design and Development
+		ii. Process Engineering 
+		iii. Simple Solution Implementation
+Customer Relationships
+1. What type of relationships do you need to build with each segment? 
+	a. The relationships I hope to form are:
+		i. Transactional - purchasing products through the 3rd Party Partnership.
+		ii. Continuous development projects - website growth and management. 
+Channels
+1.How are you going to reach people?
+	a. We will target Instagram to build a stronger brand presence
+	b. We will target Linkedin to build a presence in/on a professional network
+	c. We will target Clubhouse to build a platform for subject matter expertise
+	d. The future will be to establish a presence on every social media platform
+	e. The future will be to commercialize and advertise on video streaming platforms
+
+Customer Segments
+1.How does the company make money from each customer segment?
+	a. Transactional
+		i. Revenue earned from the transactional customers comes in the form of a payout from Go Daddy on a monthly basis.
+		ii. Revenue earned from the transactional customers comes in the form of residual monthly payments on the products.
+		iii. Revenue from the transactional customers comes in the form of one-time payments for website development services. 
+	b. Recurring
+		i. Revenue from the continuous development projects come in the form of new opportunities identified by recurring customers.
+
+Cost Structure 
+1.What factors influence your costs?
+	a. Competitors such as:
+		i. Wix
+		ii. Sqaurespace
+		iii. GoDaddy
+		iv. Hostgator
+		v. IONOS
+		vi. Namecheap
+		vii. Google Domains 
+	b. We must compete with these companies based on their sales, advertising, and marketing activities. Our competitive edge against these companies are the fact that we can offer a full solutions package where the customer will be in the hands of experts who will have their hand held every step of the way. 
+	c. We must development competitive content and market in a similar fashion to directly compete.
+
+Revenue Streams
+1.What are people really willing to pay for? How much are they willing to pay?
+	a. Website Services
+	b. Domain Hosting 
+	c. Our expertise 
+	d. The Quality assurance
+  
